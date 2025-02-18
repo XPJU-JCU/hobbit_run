@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cqnite1ucsnvm"
+path="res://.godot/imported/bit-coin-sound-effect-copyright-free (mp3cut.net).mp3-7c8bf8aa23cc3eef628a53753251ca5a.mp3str"
+
+[deps]
+
+source_file="res://bit-coin-sound-effect-copyright-free (mp3cut.net).mp3"
+dest_files=["res://.godot/imported/bit-coin-sound-effect-copyright-free (mp3cut.net).mp3-7c8bf8aa23cc3eef628a53753251ca5a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
